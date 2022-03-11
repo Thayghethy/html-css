@@ -1,0 +1,4 @@
+-Montare i due CD con alcohol 120 o con daemon tools
+-Installare il gioco, optando per un installazione completa (cioe comprensiva dei file per le stazioni radio
+-Applicare la CURA, sostituendo il file all'interno del rar con quello originale contenuto nella cartella principale del gioco
+-Giocate!
