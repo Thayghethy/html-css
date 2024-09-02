@@ -1,6 +1,6 @@
-@charset "UTF-8"
+@charset "UTF-8";
 
-/*Config gerais*/
+/* Config gerais */
 
 * {
     margin: 0px;
@@ -12,7 +12,8 @@ html, body {
     width: 100vw;
     height: 100vh;
     background-color: #233EFF;
-
+    background-size: contain;
+    background-repeat: no-repeat;
 }
 
 h1 {
